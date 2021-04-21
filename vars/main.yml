@@ -1,0 +1,7 @@
+---
+# vars file for mapred_job_tracker
+jtip: 192.168.43.30
+port_no: 9004
+
+
+
